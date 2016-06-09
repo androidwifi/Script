@@ -5,6 +5,7 @@ dirarr=("/etc/alternatives" "/usr/bin")
 filearr=("extcheck" "idlj" "extcheck" "jcmd" "jconsole" "jdb" "jhat" "jinfo" "jmap" "jps" "jrunscript" "jsadebugd" "jstack" "jstat" "jstatd" "native2ascii" "rmic" "schemagen" "serialver" "wsgen" "wsimport" "xjc")
 
 
+# test
 #2.遍历删除  
 for dir in ${dirarr[*]}
 do
